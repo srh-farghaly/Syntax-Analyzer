@@ -1,0 +1,16 @@
+int x = 1 ;
+float y;
+double temp;
+while(x<3)
+{
+ y = 10.4;
+ // z = 70;
+ y = y + 3e1;
+ 
+}
+if(x==10)
+  temp = 3.33;
+else if(x <2)
+   temp = 30;
+else
+   temp = 0;

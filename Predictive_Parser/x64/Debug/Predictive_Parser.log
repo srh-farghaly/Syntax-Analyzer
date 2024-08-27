@@ -1,0 +1,3 @@
+﻿  LEXER.cpp
+D:\Predictive_Parser\Predictive_Parser\LEXER.cpp(100): warning C4715: 'Lexer::getTokenTypeName': not all control paths return a value
+  Predictive_Parser.vcxproj -> D:\Predictive_Parser\x64\Debug\Predictive_Parser.exe
